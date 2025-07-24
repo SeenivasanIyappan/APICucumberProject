@@ -11,8 +11,7 @@
 
   Project Structure
 
-  ## APICucumberProject
-  
+APICucumberProject
 ├── src
 │   ├── main/java                # Application code (if any)
 │   └── test/java
