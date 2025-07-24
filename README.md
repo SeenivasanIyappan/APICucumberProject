@@ -9,8 +9,9 @@
 - Extensible Design: Easily add new endpoints, scenarios, and step definitions as your API evolves.
 - Reporting: Integrates with reporting tools for clear test results (with options like ExtentReports).
 
-  Project Structure
+ ## 📁 Project Structure
 
+```
 APICucumberProject
 ├── src
 │   ├── main/java                # Application code (if any)
@@ -22,10 +23,11 @@ APICucumberProject
 ├── src/test/resources           # Additional resources/data
 ├── pom.xml                      # Maven build configuration
 └── README.md                    # Documentation
+```
 
-Getting Started
+## Getting Started
 
-Prerequisites:
+### Prerequisites:
 - Java 8 or newer
 - Maven 3.6+
 - IDE (IntelliJ IDEA, Eclipse, etc.)
